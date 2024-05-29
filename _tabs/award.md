@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Awards
-icon: fa-solid fa-ward
+icon: fa-solid fa-award
 order: 3
 ---
 
