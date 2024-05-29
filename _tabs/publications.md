@@ -7,7 +7,7 @@ order: 1
 
 ## Preprint
 
-- ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren. "Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution." arXiv preprint. [[Paper](http://arxiv.org/abs/2405.04825)]
+- ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren. "Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution." arXiv preprint. [[Paper](https://arxiv.org/abs/2405.04825)]
 
 ## Accepted Papers
 
