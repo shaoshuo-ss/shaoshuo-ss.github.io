@@ -2,5 +2,5 @@
 # the default layout is 'page'
 title: Blogs
 icon: fas fa-archive
-order: 2
+order: 3
 ---
