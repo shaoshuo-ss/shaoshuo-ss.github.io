@@ -7,17 +7,16 @@ order: 1
 
 ## Preprint
 
-- **Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.**
-  
-  ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.
-  arXiv preprint 2024.
+- **Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.**<br>
+  ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
+  arXiv preprint 2024.<br>
   [[Paper](https://arxiv.org/abs/2405.04825)]
 
 ## Accepted Papers
 
-- **FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model.**
-  ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.
-  IEEE Transactions on Dependable and Secure Computing (TDSC). 2024. (CCF-A)
+- **FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model.**<br>
+  ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
+  IEEE Transactions on Dependable and Secure Computing (TDSC). 2024. (CCF-A)<br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)]
 - **Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring.**
   Wenyuan Yang, ***Shuo Shao***, Yue Yang, Xiyao Liu&#9993;, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.
