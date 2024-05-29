@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Home
+title: Publications
 icon: fas fa-stream
 order: 1
 ---
