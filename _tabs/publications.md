@@ -16,15 +16,15 @@ order: 1
 
 - <font color=Navy>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model.</font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
-  IEEE Transactions on Dependable and Secure Computing (TDSC). 2024. (CCF-A)<br>
+  IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)]
 - <font color=Navy>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring.</font>
   Wenyuan Yang, ***Shuo Shao***, Yue Yang, Xiyao Liu&#9993;, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.<br>
-  ACM Transactions on Intelligent Systems and Technology (TIST). 2023. (JCR-Q2)<br>
+  ACM Transactions on Intelligent Systems and Technology (TIST). 2023.<br>
   [[Paper](https://dl.acm.org/doi/full/10.1145/3630636)] [[Code](https://github.com/shaoshuo-ss/Watermark-Secure-FL)]
 - <font color=Navy>Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme.</font>
   Xiyao Liu, ***Shuo Shao***, Yue Yang, Kangming Wu, Wenyuan Yang&#9993;, Hui Fang.<br>
-  IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021. (CCF-C)<br>
+  IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021.<br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9658998/)]
 
 <span style="color: gray;font-size: small;">*: Co-first authors, &#9993;: Corresponding author.</span>
