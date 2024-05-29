@@ -9,6 +9,10 @@
   noblank: true # open link in current tab
   url: 'shaoshuo_ss@zju.edu.cn'
 
+- type: google
+  icon: "fa fa-google"
+  url: 'https://scholar.google.com/citations?user=COjuKzgAAAAJ'
+
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
