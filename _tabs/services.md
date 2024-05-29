@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Publications
-icon: fas fa-briefcase
+title: Services
+icon: fa fa-briefcase
 order: 2
 ---
