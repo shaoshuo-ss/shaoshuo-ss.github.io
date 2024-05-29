@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: Blogs
 icon: fas fa-archive
-order: 3
+order: 4
 ---
 
 ## About Machine Learning and Deep Learning:
