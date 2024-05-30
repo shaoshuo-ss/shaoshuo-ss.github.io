@@ -9,4 +9,3 @@ If you have any questions about my works, or have some works for collaboration w
 
 - **Email**: shaoshuo_ss@zju.edu.cn; shaoshuo2000@gmail.com
 - **Wechat**: Stone_Leaves
-- **Google Scholar**: https://scholar.google.com/citations?user=COjuKzgAAAAJ&hl=en
