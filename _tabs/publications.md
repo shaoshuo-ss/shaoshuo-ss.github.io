@@ -7,14 +7,14 @@ order: 1
 
 ## Preprint
 
-- <font color=FireBrick><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.</b></font>
+- <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.</b></font>
   ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   arXiv preprint 2024.<br>
   [[Paper](https://arxiv.org/abs/2405.04825)]
 
 ## Accepted Papers
 
-- <font color=DarkRed><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model.</b></font>
+- <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model.</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)]
@@ -22,7 +22,7 @@ order: 1
   Wenyuan Yang, ***Shuo Shao***, Yue Yang, Xiyao Liu&#9993;, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.<br>
   ACM Transactions on Intelligent Systems and Technology (TIST). 2023.<br>
   [[Paper](https://dl.acm.org/doi/full/10.1145/3630636)] [[Code](https://github.com/shaoshuo-ss/Watermark-Secure-FL)]
-- <font color=Navy><b>Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme.</b></font>
+- <font color=Maroon><b>Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme.</b></font>
   Xiyao Liu, ***Shuo Shao***, Yue Yang, Kangming Wu, Wenyuan Yang&#9993;, Hui Fang.<br>
   IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021.<br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9658998/)]
