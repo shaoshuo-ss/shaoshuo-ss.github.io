@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Publications
-icon: fas fa-stream
+icon: fa-solid fa-book
 order: 1
 ---
 
