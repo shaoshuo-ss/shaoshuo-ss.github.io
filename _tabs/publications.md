@@ -11,6 +11,10 @@ order: 1
   ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   arXiv preprint 2024.<br>
   [[Paper](https://arxiv.org/abs/2405.04825)]
+- <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark.</b></font>
+  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin<br>
+  arXiv preprint 2024.<br>
+  [[Paper](https://arxiv.org/abs/2408.05500)]
 
 ## Accepted Papers
 
