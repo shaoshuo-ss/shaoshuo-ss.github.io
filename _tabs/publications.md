@@ -9,11 +9,11 @@ order: 1
 
 - <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.</b></font>
   ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
-  arXiv preprint 2024.<br>
+  arXiv preprint. 2024.<br>
   [[arXiv](https://arxiv.org/abs/2405.04825)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark.</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin<br>
-  arXiv preprint 2024.<br>
+  arXiv preprint. 2024. Submitted to IEEE Transactions on Information Forensics and Security (TIFS).<br>
   [[arXiv](https://arxiv.org/abs/2408.05500)]
 
 ## Accepted Papers
