@@ -7,10 +7,6 @@ order: 1
 
 ## Preprint
 
-- <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.</b></font>
-  ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
-  arXiv preprint. 2024.<br>
-  [[arXiv](https://arxiv.org/abs/2405.04825)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark.</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin<br>
   arXiv preprint. 2024. Submitted to IEEE Transactions on Information Forensics and Security (TIFS).<br>
@@ -18,6 +14,10 @@ order: 1
 
 ## Accepted Papers
 
+- <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.</b></font>
+  ***Shuo Shao***, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
+  To appear in Network and Distributed System Security Symposium (NDSS). 2025.<br>
+  [[arXiv](https://arxiv.org/abs/2405.04825)]
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model.</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
