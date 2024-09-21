@@ -16,7 +16,7 @@ order: 1
 
 - <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution.</b></font>
   ***Shuo Shao***\*, Yiming Li\*&#9993;, Hongwei Yao, Yiling He, Zhan Qin&#9993;, Kui Ren.<br>
-  To appear in Network and Distributed System Security Symposium (NDSS). 2025.<br> 
+  Network and Distributed System Security Symposium (NDSS). 2025.<br> 
   [[arXiv](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)]
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model.</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
