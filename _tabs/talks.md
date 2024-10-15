@@ -1,8 +1,8 @@
 ---
 # the default layout is 'page'
 title: Talks
-icon: fa-solid fa-microphone-alt
-order: 5
+icon: fas fa-microphone
+order: 4
 ---
 
 ## Invited Talks
