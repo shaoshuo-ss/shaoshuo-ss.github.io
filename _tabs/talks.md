@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Talks
-icon: far fa-podium-star
+icon: fas fa-microphone-alt
 order: 5
 ---
 
