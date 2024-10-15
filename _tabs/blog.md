@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Blogs & Talks
+title: Blogs
 icon: fas fa-archive
 order: 4
 ---
