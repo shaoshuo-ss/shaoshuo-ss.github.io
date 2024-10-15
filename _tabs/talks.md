@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Talks
-icon: fa-regular fa-podium
+icon: fa-solid fa-person-chalkboard
 order: 5
 ---
 
