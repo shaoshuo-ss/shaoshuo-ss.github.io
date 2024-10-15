@@ -5,6 +5,12 @@ icon: fa-solid fa-award
 order: 3
 ---
 
+## Honors
+
+- 2024 Outstanding Graduate Student of Zhejiang University.
+- 2022 Outstanding Graduate of Hunan Province.
+- 2022 Outstanding Graduate of Central South University.
+
 ## Academic Competition
 
 - 2021 Central South University Information Security Contest: First Prize
