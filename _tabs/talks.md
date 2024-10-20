@@ -8,4 +8,4 @@ order: 4
 
 ## Invited Talks
 
-- Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Veirfication via Watermarking Feature Attribution. In *the First Graduate Academic Forum on Cyberspace Security*, 2024.11.
+- Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Veirfication via Watermarking Feature Attribution. In *the First Graduate Academic Forum on Cyberspace Security*, 2024.11. [[Slides](_slides/EaaW-NDSS25-Slides.pdf)]
