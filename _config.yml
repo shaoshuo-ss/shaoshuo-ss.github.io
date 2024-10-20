@@ -168,7 +168,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  slides
 
 
 defaults:
@@ -209,6 +208,8 @@ compress_html:
   ignore:
     envs: [development]
 
+include:
+  - _slides
 exclude:
   - "*.gem"
   - "*.gemspec"
