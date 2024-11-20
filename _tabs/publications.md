@@ -8,7 +8,7 @@ order: 1
 ## Preprint
 
 - <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
-  Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***<br>
+  Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
   ArXiv Preprint. 2024.<br>
   [[arXiv](https://arxiv.org/abs/2411.11478)]
 
