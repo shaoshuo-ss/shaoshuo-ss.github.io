@@ -23,7 +23,7 @@ order: 1
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[arXiv](https://arxiv.org/abs/2211.07160)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
-  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin<br>
+  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li&#9993;, Zhibo Wang, Zhan Qin&#9993;<br>
   IEEE Transactions on Information Forensics and Security (TIFS). 2024.<br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[arXiv](https://arxiv.org/abs/2408.05500)] [[Code](https://github.com/weic0810/PointNCBW)]
 - <font color=Maroon><b>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring</b></font>
