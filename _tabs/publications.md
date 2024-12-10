@@ -10,26 +10,26 @@ order: 1
 - <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
   Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
   ArXiv Preprint. 2024.<br>
-  [[arXiv](https://arxiv.org/abs/2411.11478)]
+  [[Paper](https://arxiv.org/abs/2411.11478)]
 
 ## Accepted Papers
 
 - <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font>
   ***Shuo Shao***\*, Yiming Li\*&#9993;, Hongwei Yao, Yiling He, Zhan Qin&#9993;, Kui Ren.<br>
   Network and Distributed System Security Symposium (NDSS). 2025.<br> 
-  [[arXiv](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)] [[Sildes](https://drive.google.com/file/d/1_xFE_Hrd63RO6FnS6-iLNZqEfi8LWN8b/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/10yvkP86sH16ELQSW3oCnRkQNGRrYx64Y/view?usp=sharing)]
+  [[Paper](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)] [[Sildes](https://drive.google.com/file/d/1_xFE_Hrd63RO6FnS6-iLNZqEfi8LWN8b/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/10yvkP86sH16ELQSW3oCnRkQNGRrYx64Y/view?usp=sharing)]
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
-  [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[arXiv](https://arxiv.org/abs/2211.07160)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
+  [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li&#9993;, Zhibo Wang, Zhan Qin&#9993;<br>
   IEEE Transactions on Information Forensics and Security (TIFS). 2024.<br>
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[arXiv](https://arxiv.org/abs/2408.05500)] [[Code](https://github.com/weic0810/PointNCBW)]
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
 - <font color=Maroon><b>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring</b></font>
   Wenyuan Yang, ***Shuo Shao#***, Yue Yang, Xiyao Liu&#9993;, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.<br>
   ACM Transactions on Intelligent Systems and Technology (TIST). 2023.<br>
-  [[Paper](https://dl.acm.org/doi/full/10.1145/3630636)] [[arXiv](https://arxiv.org/abs/2211.07138)] [[Code](https://github.com/shaoshuo-ss/Watermark-Secure-FL)]
+  [[Paper](https://dl.acm.org/doi/full/10.1145/3630636)] [[Code](https://github.com/shaoshuo-ss/Watermark-Secure-FL)]
 - <font color=Maroon><b>Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme</b></font>
   Xiyao Liu, ***Shuo Shao#***, Yue Yang, Kangming Wu, Wenyuan Yang&#9993;, Hui Fang.<br>
   IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021.<br>
