@@ -9,9 +9,9 @@ title: Welcome to the homepage of Shuo Shao!
 </head>
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io#pic_left) -->
-<div align="left">
+<!-- <div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io" alt="visitor badge"/>
-</div>
+</div> -->
 
 ## 🪪About Me
 
@@ -52,7 +52,7 @@ My research interests include:
   
   <!-- 右边的文字 -->
   <div class="text-content">
-    <p><font color=DodgerBlue><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font></p>
+    <p><a href="https://arxiv.org/abs/2405.04825"><font color=DodgerBlue><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font></a></p>
     <p><b>Shuo Shao</b>, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.</p>
     <ul>
         <li>In this paper, we propose a novel black-box model watermarking paradigm that embeds the watermark into the explanation of the model.</li>

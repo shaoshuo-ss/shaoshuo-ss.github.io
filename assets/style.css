@@ -2,9 +2,7 @@
 .publication-container {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
-    border: 2px solid #444;                  /* 边框 */
-    border-radius: 8px;  
+    margin-bottom: 20px; 
   }
   
   /* 图片容器 */
