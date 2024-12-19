@@ -55,8 +55,8 @@ My research interests include:
     <p><a href="https://arxiv.org/abs/2405.04825"><font color=DodgerBlue><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font></a></p>
     <p><b>Shuo Shao</b>, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.</p>
     <ul>
-        <li>In this paper, we propose a novel black-box model watermarking paradigm that embeds the watermark into the explanation of the model.</li>
-        <li>Our paradigm can improve the harmlessness and facilitate multi-bit watermark embedding compared with existing backdoor-based method.</li>
+        <li>We propose a novel black-box model watermarking paradigm based on XAI.</li>
+        <li>Our paradigm is harmless and can facilitate multi-bit watermark embedding.</li>
     </ul>
   </div>
 </div>
@@ -76,8 +76,8 @@ My research interests include:
     <p><a href="https://ieeexplore.ieee.org/document/10504977"><font color=DodgerBlue><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font></a></p>
     <p><b>Shuo Shao</b>, Wenyuan Yang, Hanlin Gu, Zhan Qin, Lixin Fan, Qiang Yang, Kui Ren.</p>
     <ul>
-        <li>In this paper, we start the first study about the ownership traceability of Federated Learning models.</li>
-        <li>To mitigate the impact of embedding multiple watermarks, we propose a continual-learning-based watermark embedding method.</li>
+        <li>We start the first study about the ownership traceability of FL models.</li>
+        <li>We propose a continual-learning-based watermark embedding method.</li>
     </ul>
   </div>
 </div>
