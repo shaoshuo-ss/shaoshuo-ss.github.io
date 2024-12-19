@@ -39,16 +39,16 @@ My research interests include:
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- 左边的图 -->
   <div style="position: relative; flex-shrink: 0; margin-right: 15px;">
-    <img src="assets/eaaw.png" alt="Image" style="width: 300px; height: 150px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="assets/eaaw.png" alt="Image" style="width: 300px; height: 150px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 1.5px solid #ccc; border-radius: 4px;">
     <!-- 会议或期刊标记 -->
-    <div style="position: absolute; top: 5px; left: 5px; background-color: rgba(0, 0, 0, 0.6); color: white; padding: 5px; font-size: 12px;">
+    <div style="position: absolute; top: 5px; left: 0px; background-color: rgba(0, 0, 0, 0.6); color: white; padding: 5px; font-size: 12px;">
       NDSS 2025
     </div>
   </div>
   
   <!-- 右边的文字 -->
   <div style="flex-grow: 1; margin-left: 40px">
-    <h3>论文标题</h3>
+    <h3><font color=Maroon>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</font></h3>
     <p><strong>作者:</strong> 你的名字</p>
     <p><strong>摘要:</strong> 论文摘要内容...</p>
   </div>
