@@ -32,11 +32,30 @@ My research interests include:
 
 ---
 
-<!-- ## 📖Selected Publications
+## 📖Selected Publications
 
-<img src="assets/eaaw.png" width = "300" height = "200" alt="图片说明" align=left />
+<!-- <img src="assets/eaaw.png" width = "300" height = "200" alt="图片说明" align=left /> -->
 
---- -->
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- 左边的图 -->
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="assets/eaaw.png" alt="Image" style="width: 200px; height: 100px;">
+    <!-- 会议或期刊标记 -->
+    <div style="position: absolute; top: 5px; left: 5px; background-color: rgba(0, 0, 0, 0.6); color: white; padding: 5px; font-size: 12px;">
+      NDSS 2025
+    </div>
+  </div>
+  
+  <!-- 右边的文字 -->
+  <div style="flex-grow: 1;">
+    <h3>论文标题</h3>
+    <p><strong>作者:</strong> 你的名字</p>
+    <p><strong>摘要:</strong> 论文摘要内容...</p>
+  </div>
+</div>
+
+
+---
 
 ## ✉️Contact
 
