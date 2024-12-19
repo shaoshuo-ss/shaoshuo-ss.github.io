@@ -4,6 +4,10 @@ title: Welcome to the homepage of Shuo Shao!
 # Index page
 ---
 
+<head>
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+</head>
+
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io#pic_left) -->
 <div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io" alt="visitor badge"/>
@@ -36,19 +40,17 @@ My research interests include:
 
 <!-- <img src="assets/eaaw.png" width = "300" height = "200" alt="图片说明" align=left /> -->
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div class="publication-container">
   <!-- 左边的图 -->
-  <div style="position: relative; flex-shrink: 0; margin-right: 15px;">
-    <img src="assets/eaaw.png" alt="Image" style="width: 300px; height: 150px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 1.5px solid #ccc; border-radius: 4px;">
+  <div class="image-container">
+    <img src="assets/eaaw.png" alt="Image" class="publication-image">
     <!-- 会议或期刊标记 -->
-    <div style="position: absolute; top: 5px; left: 0px; background-color: rgba(0, 0, 0, 0.6); color: white; padding: 5px; font-size: 12px;">
-      NDSS 2025
-    </div>
+    <div class="conference-label">会议/期刊</div>
   </div>
   
   <!-- 右边的文字 -->
-  <div style="flex-grow: 1; margin-left: 40px">
-    <h3><font color=Maroon>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</font></h3>
+  <div class="text-content">
+    <p><font color=DodgerBlue>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</font></p>
     <p><strong>作者:</strong> 你的名字</p>
     <p><strong>摘要:</strong> 论文摘要内容...</p>
   </div>
