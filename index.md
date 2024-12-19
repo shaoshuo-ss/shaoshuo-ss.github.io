@@ -45,14 +45,14 @@ My research interests include:
   <div class="image-container">
     <img src="assets/eaaw.png" alt="Image" class="publication-image">
     <!-- 会议或期刊标记 -->
-    <div class="conference-label">会议/期刊</div>
+    <div class="conference-label">NDSS 2025</div>
   </div>
   
   <!-- 右边的文字 -->
   <div class="text-content">
-    <p><font color=DodgerBlue>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</font></p>
-    <p><strong>作者:</strong> 你的名字</p>
-    <p><strong>摘要:</strong> 论文摘要内容...</p>
+    <p><font color=DodgerBlue><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font></p>
+    <p><b>Shuo Shao</b>, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.</p>
+    <p>In this paper, we propose a novel black-box model watermarking paradigm that embeds the watermark into the explanation of the model. Our paradigm can improve the harmlessness and facilitate multi-bit watermark embedding compared with existing backdoor-based method.</p>
   </div>
 </div>
 
