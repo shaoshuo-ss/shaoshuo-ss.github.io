@@ -45,7 +45,7 @@ My research interests include:
 <div class="publication-container">
   <!-- 左边的图 -->
   <div class="image-container">
-    <img src="assets/eaaw.png" alt="Image" class="publication-image">
+    <img src="assets/pub/eaaw.png" alt="Image" class="publication-image">
     <!-- 会议或期刊标记 -->
     <div class="conference-label">NDSS 2025</div>
   </div>
@@ -61,6 +61,26 @@ My research interests include:
   </div>
 </div>
 
+---
+
+<div class="publication-container">
+  <!-- 左边的图 -->
+  <div class="image-container">
+    <img src="assets/pub/fedtracker" alt="Image" class="publication-image">
+    <!-- 会议或期刊标记 -->
+    <div class="conference-label">TDSC 2024</div>
+  </div>
+  
+  <!-- 右边的文字 -->
+  <div class="text-content">
+    <p><a href="https://ieeexplore.ieee.org/document/10504977"><font color=DodgerBlue><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font></a></p>
+    <p><b>Shuo Shao</b>, Wenyuan Yang, Hanlin Gu, Zhan Qin, Lixin Fan, Qiang Yang, Kui Ren.</p>
+    <ul>
+        <li>In this paper, we start the first study about the ownership traceability of Federated Learning models.</li>
+        <li>To mitigate the impact of embedding multiple watermarks, we propose a continual-learning-based watermark embedding method.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
