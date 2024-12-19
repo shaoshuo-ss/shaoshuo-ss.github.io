@@ -4,10 +4,10 @@ title: Welcome to the homepage of Shuo Shao!
 # Index page
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io#pic_left)
-<!-- <div align="left">
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io#pic_left) -->
+<div align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io" alt="visitor badge"/>
-</div> -->
+</div>
 
 ## 🪪About Me
 
@@ -31,6 +31,12 @@ My research interests include:
 - **[2023.11]**: 🎉Our paper "Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring" is accepted by TIST.
 
 ---
+
+<!-- ## 📖Selected Publications
+
+<img src="assets/eaaw.png" width = "300" height = "200" alt="图片说明" align=left />
+
+--- -->
 
 ## ✉️Contact
 
