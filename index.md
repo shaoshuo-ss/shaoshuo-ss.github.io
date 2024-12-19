@@ -66,7 +66,7 @@ My research interests include:
 <div class="publication-container">
   <!-- 左边的图 -->
   <div class="image-container">
-    <img src="assets/pub/fedtracker" alt="Image" class="publication-image">
+    <img src="assets/pub/fedtracker.png" alt="Image" class="publication-image">
     <!-- 会议或期刊标记 -->
     <div class="conference-label">TDSC 2024</div>
   </div>
