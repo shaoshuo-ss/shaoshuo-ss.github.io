@@ -19,10 +19,12 @@ I'm Shuo Shao😄, a third-year Ph.D. student with the College of Computer Scien
 
 My research interests include:
 
-- Copyright protection in AI (model, dataset, and generated content).
-- Backdoor attack and defense.
-- Federated learning.
-- AI security and privacy.
+- AI Copyright Protection
+  - Model Watermarking and Fingerprinting
+  - Federated Learning Copyright Protection
+  - Model Authorization
+- Backdoor Attack and Defense
+- Privacy
 
 ---
 
