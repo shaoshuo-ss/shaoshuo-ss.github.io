@@ -17,14 +17,18 @@ title: Welcome to the homepage of Shuo Shao!
 
 I'm Shuo Shao😄, a third-year Ph.D. student with the College of Computer Science and Technology and the State Key Laboratory of Blockchain and Data Security, Zhejiang University. I am currently advised by Prof. <a href="https://scholar.google.com/citations?user=5fa4lOQAAAAJ">Zhan Qin</a> and Prof. <a href="https://scholar.google.com/citations?user=uuQA_rcAAAAJ">Kui Ren</a>. I also work closely with Dr. <a href="https://scholar.google.com/citations?user=mSW7kU8AAAAJ">Yiming Li</a> and Prof. <a href="https://scholar.google.com/citations?user=bdFQARIAAAAJ">Wenyuan Yang</a>. I received my B.Eng. degree in Computer Science and Technology from Central South University in 2022, advised by Prof. <a href="https://scholar.google.com/citations?user=3odvjZ0AAAAJ">Xiyao Liu</a>.
 
-My research interests include:
+My research interests focus on three main aspects of trustworthy AI: copyright, security, and privacy, including
 
-- AI Copyright Protection
+- **AI Copyright Protection**
   - Model Watermarking and Fingerprinting
-  - Federated Learning Copyright Protection
-  - Model Authorization
-- Backdoor Attack and Defense
-- Privacy
+  - Model Authorization and Access Control
+  - Dataset Auditing
+- **AI Security**
+  - Backdoor Attack and Defense
+  - LLM Security
+- **AI Privacy**
+  - Membership Inference and Data Extraction
+  - Privacy-preserving Model Inference
 
 ---
 
