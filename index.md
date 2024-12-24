@@ -34,7 +34,6 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
 
 ## 🔥News
 
-- **[2024.11]**: Our SoK paper about AIGC watermarking is available on arXiv. We welcome any discussions and opportunities for collaboration!
 - **[2024.10]**: 🎉Our paper about point cloud dataset ownership verification is accepted by TIFS.
 - **[2024.8]**: 🎉Our paper about LLM watermarking, entitled "Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution", is accepted by NDSS 2025!
 - **[2024.4]**: 🎉Our paper "FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model" is accepted by TDSC.
