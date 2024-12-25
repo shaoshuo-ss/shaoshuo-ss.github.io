@@ -43,8 +43,6 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
 
 ## 📖Selected Publications
 
-<!-- <img src="assets/eaaw.png" width = "300" height = "200" alt="图片说明" align=left /> -->
-
 ---
 
 <div class="publication-container">
