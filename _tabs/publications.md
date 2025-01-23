@@ -18,6 +18,9 @@ order: 1
   ***Shuo Shao***\*, Yiming Li\*&#9993;, Hongwei Yao, Yiling He, Zhan Qin&#9993;, Kui Ren.<br>
   Network and Distributed System Security Symposium (NDSS). 2025.<br> 
   [[Paper](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)] [[Sildes](https://drive.google.com/file/d/1_xFE_Hrd63RO6FnS6-iLNZqEfi8LWN8b/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/10yvkP86sH16ELQSW3oCnRkQNGRrYx64Y/view?usp=sharing)]
+- <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
+  Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
+  To appear in International Conference on Learning Representations (ICLR). 2025.<br>
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
@@ -35,7 +38,7 @@ order: 1
   IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021.<br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9658998/)]
 
-<span style="color: gray;font-size: small;">*: Co-first authors; &#9993;: Corresponding author(s).</span>
+<span style="color: gray;font-size: small;">*: Equal contributions; &#9993;: Corresponding author(s).</span>
 
 ## Patent
 
