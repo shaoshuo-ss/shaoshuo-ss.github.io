@@ -9,7 +9,7 @@ order: 1
 
 - <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
   Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
-  ArXiv Preprint. 2024.<br>
+  Preprint. 2024.<br>
   [[Paper](https://arxiv.org/abs/2411.11478)]
 
 ## Accepted Papers
@@ -20,7 +20,7 @@ order: 1
   [[Paper](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)] [[Sildes](https://drive.google.com/file/d/1_xFE_Hrd63RO6FnS6-iLNZqEfi8LWN8b/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/10yvkP86sH16ELQSW3oCnRkQNGRrYx64Y/view?usp=sharing)]
 - <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
   Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
-  To appear in International Conference on Learning Representations (ICLR). 2025.<br>
+  International Conference on Learning Representations (ICLR). 2025.<br>
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
