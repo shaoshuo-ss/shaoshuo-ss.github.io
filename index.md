@@ -57,7 +57,6 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
   <!-- 右边的文字 -->
   <div class="text-content">
     <p><a href="https://arxiv.org/abs/2405.04825"><font color=DodgerBlue><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font></a></p>
-    <p><b>Shuo Shao</b>, Yiming Li, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.</p>
     <ul>
         <li>We propose a novel black-box model watermarking paradigm based on XAI.</li>
         <li>Our paradigm is harmless and can facilitate multi-bit watermark embedding.</li>
@@ -78,7 +77,6 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
   <!-- 右边的文字 -->
   <div class="text-content">
     <p><a href="https://ieeexplore.ieee.org/document/10504977"><font color=DodgerBlue><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font></a></p>
-    <p><b>Shuo Shao</b>, Wenyuan Yang, Hanlin Gu, Zhan Qin, Lixin Fan, Qiang Yang, Kui Ren.</p>
     <ul>
         <li>We start the first study about the ownership traceability of FL models.</li>
         <li>We propose a continual-learning-based watermark embedding method.</li>
