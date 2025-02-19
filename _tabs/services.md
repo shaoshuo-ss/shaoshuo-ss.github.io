@@ -7,6 +7,7 @@ order: 2
 
 <!-- ## Conference Services -->
 
+- Reviewer of NeurIPS 2025.
 - Reviewer of ICML 2025.
 - Reviewer of ICLR 2025.
 - Reviewer of NeurIPS 2024 (<font color=FireBrick>One of the Top Reviewers!</font>🎉).
