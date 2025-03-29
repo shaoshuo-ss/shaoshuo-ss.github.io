@@ -8,7 +8,7 @@ order: 1
 ## Preprint
 
 - <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
-  ***Shuo Shao***, Haozhe Zhu, Hongwei Yao, Yiming Li, Zhan Qin, Kui Ren.<br>
+  ***Shuo Shao***, Haozhe Zhu, Hongwei Yao, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2501.15509)]
 - <font color=Maroon><b>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking</b></font>
