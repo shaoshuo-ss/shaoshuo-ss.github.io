@@ -29,7 +29,7 @@ order: 1
 - <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
   Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
   International Conference on Learning Representations (ICLR). 2025.<br>
-  [[Paper](https://openreview.net/forum?id=4IYdCws9fc)] [[Code](https://github.com/WhitolfChen/REFINE)]
+  [[Paper](https://arxiv.org/abs/2502.18508)] [[Code](https://github.com/WhitolfChen/REFINE)]
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
