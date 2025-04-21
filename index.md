@@ -34,7 +34,7 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
 
 ## 🔥News
 
-- **[2025.1]**: 🎉Our paper about backdoor defense is accepted by ICLR 2025!
+- **[2025.1]**: 🎉Our paper about backdoor defense based on model reprogramming is accepted by ICLR 2025!
 - **[2024.10]**: 🎉Our paper about point cloud dataset ownership verification is accepted by TIFS.
 - **[2024.8]**: 🎉Our paper about LLM watermarking, entitled "Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution", is accepted by NDSS 2025!
 - **[2024.4]**: 🎉Our paper "FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model" is accepted by TDSC.
@@ -58,8 +58,28 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
   <div class="text-content">
     <p><a href="https://arxiv.org/abs/2405.04825"><font color=DodgerBlue><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font></a></p>
     <ul>
-        <li>We propose a novel black-box model watermarking paradigm based on XAI.</li>
+        <li>We propose a novel black-box model watermarking paradigm that embeds watermarks into the explanations of the model.</li>
         <li>Our paradigm is harmless and can facilitate multi-bit watermark embedding.</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+<div class="publication-container">
+  <!-- 左边的图 -->
+  <div class="image-container">
+    <img src="assets/pub/refine.png" alt="Image" class="publication-image">
+    <!-- 会议或期刊标记 -->
+    <div class="conference-label">ICLR 2025</div>
+  </div>
+  
+  <!-- 右边的文字 -->
+  <div class="text-content">
+    <p><a href="https://arxiv.org/abs/2502.18508"><font color=DodgerBlue><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font></a></p>
+    <ul>
+        <li>We revisit transformation-based and backdoor-trigger-inversion-based backdoor defense and reveal their limitations.</li>
+        <li>We propose a novel pre-processing-based backdoor defense via model reprogramming.</li>
     </ul>
   </div>
 </div>
@@ -79,7 +99,7 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
     <p><a href="https://ieeexplore.ieee.org/document/10504977"><font color=DodgerBlue><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font></a></p>
     <ul>
         <li>We start the first study about the ownership traceability of FL models.</li>
-        <li>We propose a continual-learning-based watermark embedding method.</li>
+        <li>We propose a continual-learning-based watermark embedding method to mitigate model utility degradation.</li>
     </ul>
   </div>
 </div>

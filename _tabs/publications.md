@@ -13,7 +13,7 @@ order: 1
   [[Paper](https://arxiv.org/abs/2501.15509)]
 - <font color=Maroon><b>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking</b></font>
   Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
-  Preprint. Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). 2025.<br>
+  Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2503.05794)] [[Code](https://github.com/Radiant0726/CBW)]
 - <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
   Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
