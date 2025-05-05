@@ -25,6 +25,7 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
   - Dataset Auditing
 - **AI Security**
   - Backdoor Attack and Defense
+  - Jailbreaking Attack and Safety Alignment
   - LLM Security
 - **AI Privacy**
   - Membership Inference and Data Extraction
