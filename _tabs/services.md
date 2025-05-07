@@ -16,7 +16,7 @@ order: 2
   - IEEE Transactions on Information Forensics and Security (TIFS); 
   - IEEE Transactions on Mobile Computing (TMC);
   - IEEE Transactions on Industrial Informatics (TII).
-- **Workshop PC member**:
+- **Workshop PC Member**:
   - ICML 2025 Workshop DIG-BUG.
 
 <!-- - Reviewer of NeurIPS 2025.
