@@ -11,6 +11,10 @@ order: 1
   ***Shuo Shao***, Haozhe Zhu, Hongwei Yao, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2501.15509)]
+- <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
+  Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2506.16981)]
 - <font color=Maroon><b>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking</b></font>
   Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
   Preprint. 2025.<br>
