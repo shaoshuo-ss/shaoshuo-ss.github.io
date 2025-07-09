@@ -7,10 +7,18 @@ order: 1
 
 ## Preprint
 
+- <font color=Maroon><b>DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective</b></font>
+  ***Shuo Shao***, Yiming Li&#9993;, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Junfeng Guo, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2507.05622)] [[Code](https://github.com/shaoshuo-ss/DATABench)]
 - <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
   ***Shuo Shao***, Haozhe Zhu, Hongwei Yao, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2501.15509)]
+- <font color=Maroon><b>Rethinking Data Protection in the (Generative) Artificial Intelligence Era</b></font>
+  Yiming Li\*&#9993;, ***Shuo Shao***\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin&#9993;, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2507.03034)]
 - <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
   Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
