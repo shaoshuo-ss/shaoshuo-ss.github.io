@@ -23,6 +23,10 @@ order: 1
   Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2506.16981)]
+- <font color=Maroon><b>Quantifying Conversation Drift in MCP via Latent Polytope</b></font>
+  Haoran Shi, Hongwei Yao, ***Shuo Shao***, Shaopeng Jiao, Ziqi Peng, Zhan Qin, Cong Wang.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2508.06418)]
 - <font color=Maroon><b>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking</b></font>
   Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
   Preprint. 2025.<br>
