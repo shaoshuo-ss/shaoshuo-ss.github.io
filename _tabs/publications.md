@@ -53,7 +53,7 @@ order: 1
 - <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
   Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin&#9993;, Kui Ren<br>
   ZTE Communications. 2025.<br>
-  [[Paper]()] (Coming soon)
+  [Paper is coming soon.]
 - <font color=Maroon><b>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring</b></font>
   Wenyuan Yang, ***Shuo Shao***, Yue Yang, Xiyao Liu&#9993;, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.<br>
   ACM Transactions on Intelligent Systems and Technology (TIST). 2023.<br>
