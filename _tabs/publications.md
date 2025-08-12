@@ -42,18 +42,18 @@ order: 1
   ***Shuo Shao***\*, Yiming Li\*&#9993;, Hongwei Yao, Yiling He, Zhan Qin&#9993;, Kui Ren.<br>
   Network and Distributed System Security Symposium (NDSS). 2025.<br> 
   [[Paper](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)] [[Sildes](https://drive.google.com/file/d/1_xFE_Hrd63RO6FnS6-iLNZqEfi8LWN8b/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/10yvkP86sH16ELQSW3oCnRkQNGRrYx64Y/view?usp=sharing)]
-- <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
-  Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
-  International Conference on Learning Representations (ICLR). 2025.<br>
-  [[Paper](https://arxiv.org/abs/2502.18508)] [[Code](https://github.com/WhitolfChen/REFINE)]
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024.<br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
-- <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
-  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li&#9993;, Zhibo Wang, Zhan Qin&#9993;<br>
-  IEEE Transactions on Information Forensics and Security (TIFS). 2024.<br>
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
+- <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
+  Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
+  International Conference on Learning Representations (ICLR). 2025.<br>
+  [[Paper](https://arxiv.org/abs/2502.18508)] [[Code](https://github.com/WhitolfChen/REFINE)]
+- <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
+  Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin&#9993;, Kui Ren<br>
+  ZTE Communications. 2025.<br>
+  [[Paper]()] (Coming soon)
 - <font color=Maroon><b>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring</b></font>
   Wenyuan Yang, ***Shuo Shao***, Yue Yang, Xiyao Liu&#9993;, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.<br>
   ACM Transactions on Intelligent Systems and Technology (TIST). 2023.<br>
@@ -62,6 +62,10 @@ order: 1
   Xiyao Liu, ***Shuo Shao***, Yue Yang, Kangming Wu, Wenyuan Yang&#9993;, Hui Fang.<br>
   IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021.<br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9658998/)]
+- <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
+  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li&#9993;, Zhibo Wang, Zhan Qin&#9993;<br>
+  IEEE Transactions on Information Forensics and Security (TIFS). 2024.<br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
 
 <span style="color: gray;font-size: small;">*: Equal contributions; &#9993;: Corresponding author(s).</span>
 
