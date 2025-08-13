@@ -116,7 +116,7 @@ order: 1
   [[Paper](https://dl.acm.org/doi/full/10.1145/3630636)] [[Code](https://github.com/shaoshuo-ss/Watermark-Secure-FL)]
 - <font color=Maroon><b>Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme</b></font>
   Xiyao Liu, ***Shuo Shao***, Yue Yang, Kangming Wu, Wenyuan Yang&#9993;, Hui Fang.<br>
-  IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021.<br>
+  IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021. <span class="badge ccf-c">CCF-C</span><br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9658998/)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li&#9993;, Zhibo Wang, Zhan Qin&#9993;<br>
