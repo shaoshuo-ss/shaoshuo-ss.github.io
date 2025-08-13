@@ -93,7 +93,7 @@ order: 1
   International Conference on Learning Representations (ICLR). 2025. <span class="badge th-cpl-a">TH-CPL A</span> <span class="badge ml-top3">ML TOP3</span><br>
   [[Paper](https://arxiv.org/abs/2502.18508)] [[Code](https://github.com/WhitolfChen/REFINE)]
 - <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
-  Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin&#9993;, Kui Ren<br>
+  Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin&#9993;, Kui Ren.<br>
   ZTE Communications. 2025. <span class="badge ccf-t2">CCF T2</span><br>
   [Paper is coming soon.]
 - <font color=Maroon><b>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring</b></font>
@@ -105,7 +105,7 @@ order: 1
   IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021. <span class="badge ccf-c">CCF-C</span><br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9658998/)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
-  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li&#9993;, Zhibo Wang, Zhan Qin&#9993;<br>
+  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li&#9993;, Zhibo Wang, Zhan Qin&#9993;.<br>
   IEEE Transactions on Information Forensics and Security (TIFS). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
 
