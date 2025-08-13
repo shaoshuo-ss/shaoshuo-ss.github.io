@@ -40,11 +40,17 @@ order: 1
 .badge.ml-top3 { color: #fff; background-color: #6f42c1; } /* ML TOP3: 创新紫 */
 .badge.sec-big4 { color: #fff; background-color: #dc3545; } /* Security BIG4: 安全红 */
 
-/* --- TH-CPL Series (Graphite Palette) --- */
-/* A (vs CCF-A): 石墨黑 - 权威、稳重 */
-.badge.th-cpl-a { color: #fff; background-color: #212529; }
-/* B (vs CCF-B): 深空灰 - 专业、严谨 */
-.badge.th-cpl-b { color: #fff; background-color: #6c757d; }
+/* --- TH-CPL Series (Teal Palette) --- NEW! --- */
+/* A (vs CCF-A): 深青色 - 现代、沉稳 */
+.badge.th-cpl-a {
+  color: #fff;
+  background-color: #117A65;
+}
+/* B (vs CCF-B): 明青色 - 专业、清晰 */
+.badge.th-cpl-b {
+  color: #fff;
+  background-color: #16A085;
+}
 </style>
 
 ## Preprint
