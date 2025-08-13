@@ -53,37 +53,6 @@ order: 1
 }
 </style>
 
-## Preprint
-
-- <font color=Maroon><b>DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective</b></font>
-  ***Shuo Shao***, Yiming Li&#9993;, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Junfeng Guo, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2507.05622)] [[Code](https://github.com/shaoshuo-ss/DATABench)]
-- <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
-  ***Shuo Shao***, Haozhe Zhu, Hongwei Yao, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2501.15509)]
-- <font color=Maroon><b>Rethinking Data Protection in the (Generative) Artificial Intelligence Era</b></font>
-  Yiming Li\*&#9993;, ***Shuo Shao***\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin&#9993;, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2507.03034)]
-- <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
-  Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2506.16981)]
-- <font color=Maroon><b>Quantifying Conversation Drift in MCP via Latent Polytope</b></font>
-  Haoran Shi, Hongwei Yao, ***Shuo Shao***, Shaopeng Jiao, Ziqi Peng, Zhan Qin, Cong Wang.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2508.06418)]
-- <font color=Maroon><b>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking</b></font>
-  Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2503.05794)] [[Code](https://github.com/Radiant0726/CBW)]
-- <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
-  Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
-  Preprint. 2024.<br>
-  [[Paper](https://arxiv.org/abs/2411.11478)]
-
 ## Accepted Papers 
 
 - <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font>
@@ -116,6 +85,37 @@ order: 1
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
 
 <span style="color: gray;font-size: small;">*: Equal contributions; &#9993;: Corresponding author(s).</span>
+
+## Preprint
+
+- <font color=Maroon><b>DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective</b></font>
+  ***Shuo Shao***, Yiming Li&#9993;, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Junfeng Guo, Tianwei Zhang, Dacheng Tao, Zhan Qin.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2507.05622)] [[Code](https://github.com/shaoshuo-ss/DATABench)]
+- <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
+  ***Shuo Shao***, Haozhe Zhu, Hongwei Yao, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2501.15509)]
+- <font color=Maroon><b>Rethinking Data Protection in the (Generative) Artificial Intelligence Era</b></font>
+  Yiming Li\*&#9993;, ***Shuo Shao***\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin&#9993;, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2507.03034)]
+- <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
+  Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2506.16981)]
+- <font color=Maroon><b>Quantifying Conversation Drift in MCP via Latent Polytope</b></font>
+  Haoran Shi, Hongwei Yao, ***Shuo Shao***, Shaopeng Jiao, Ziqi Peng, Zhan Qin, Cong Wang.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2508.06418)]
+- <font color=Maroon><b>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking</b></font>
+  Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2503.05794)] [[Code](https://github.com/Radiant0726/CBW)]
+- <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
+  Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
+  Preprint. 2024.<br>
+  [[Paper](https://arxiv.org/abs/2411.11478)]
 
 ## Patent
 
