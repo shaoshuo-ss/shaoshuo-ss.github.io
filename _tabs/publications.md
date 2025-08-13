@@ -5,6 +5,62 @@ icon: fa-solid fa-book
 order: 1
 ---
 
+<style>
+/* --- Badge Base Style --- */
+.badge {
+  display: inline-block;
+  padding: 4px 10px; /* 增加了内边距，使其更圆润饱满 */
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle; /* 垂直居中对齐 */
+  border-radius: 12px;  /* 增加了圆角，使其更像胶囊 */
+  margin-right: 4px; /* 为多个标签之间提供间距 */
+}
+
+/* --- SCI Series (Green Palette) --- */
+/* Q1: 卓越绿 - 鲜艳、突出，代表顶级 */
+.badge.sci-q1 {
+  color: #fff;
+  background-color: #28a745; 
+}
+/* Q2: 健康绿 - 饱和度略微降低，依然醒目 */
+.badge.sci-q2 {
+  color: #fff;
+  background-color: #5cb85c;
+}
+/* Q3: 清新绿 - 颜色变浅，使用深色文字 */
+.badge.sci-q3 {
+  color: #1e4620;
+  background-color: #c8e6c9;
+}
+/* Q4: 淡雅绿 - 最柔和的颜色，表示基础级别 */
+.badge.sci-q4 {
+  color: #385e3a;
+  background-color: #e8f5e9;
+}
+
+
+/* --- CCF Series (Blue Palette) --- */
+/* A: 权威蓝 - 深邃、专业，代表顶级 */
+.badge.ccf-a {
+  color: #fff;
+  background-color: #0d6efd;
+}
+/* B: 专业蓝 - 亮度稍高，依然表现出很强的专业性 */
+.badge.ccf-b {
+  color: #fff;
+  background-color: #3d8bfd;
+}
+/* C: 清爽蓝 - 颜色变浅，使用深色文字 */
+.badge.ccf-c {
+  color: #014a99;
+  background-color: #cfe2ff;
+}
+</style>
+
 ## Preprint
 
 - <font color=Maroon><b>DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective</b></font>
@@ -40,7 +96,7 @@ order: 1
 
 - <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font>
   ***Shuo Shao***\*, Yiming Li\*&#9993;, Hongwei Yao, Yiling He, Zhan Qin&#9993;, Kui Ren.<br>
-  Network and Distributed System Security Symposium (NDSS). 2025.<br> 
+  Network and Distributed System Security Symposium (NDSS). 2025. <span class="badge ccf-a">CCF-A</span><br>
   [[Paper](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)] [[Sildes](https://drive.google.com/file/d/1_xFE_Hrd63RO6FnS6-iLNZqEfi8LWN8b/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/10yvkP86sH16ELQSW3oCnRkQNGRrYx64Y/view?usp=sharing)]
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin&#9993;, Lixin Fan, Qiang Yang, Kui Ren.<br>
