@@ -93,7 +93,7 @@ order: 1
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2507.05622)] [[Code](https://github.com/shaoshuo-ss/DATABench)]
 - <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
-  ***Shuo Shao***, Haozhe Zhu, Hongwei Yao, Yiming Li, Tianwei Zhang, Zhan Qin, Kui Ren.<br>
+  ***Shuo Shao***, Haozhe Zhu, Yiming Li, Hongwei Yao, Tianwei Zhang, Zhan Qin.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2501.15509)]
 - <font color=Maroon><b>Rethinking Data Protection in the (Generative) Artificial Intelligence Era</b></font>
@@ -104,6 +104,10 @@ order: 1
   Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2506.16981)]
+- <font color=Maroon><b>Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference</b></font>
+  Zhifan Luo, ***Shuo Shao***, Su Zhang, Lijing Zhou, Yuke Hu, Zhihao Liu, Zhan Qin.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2508.09442)]
 - <font color=Maroon><b>Quantifying Conversation Drift in MCP via Latent Polytope</b></font>
   Haoran Shi, Hongwei Yao, ***Shuo Shao***, Shaopeng Jiao, Ziqi Peng, Zhan Qin, Cong Wang.<br>
   Preprint. 2025.<br>
