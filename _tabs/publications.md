@@ -100,14 +100,18 @@ order: 1
   Yiming Li\*&#9993;, ***Shuo Shao***\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin&#9993;, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2507.03034)]
-- <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
-  Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
+- <font color=Maroon><b>MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies</b></font>
+  Weiwei Qi, ***Shuo Shao***, Wei Gu, Tianhang Zheng, Puning Zhao, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2506.16981)]
+  [[Paper](https://arxiv.org/abs/2508.13048)]
 - <font color=Maroon><b>Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference</b></font>
   Zhifan Luo, ***Shuo Shao***, Su Zhang, Lijing Zhou, Yuke Hu, Zhihao Liu, Zhan Qin.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2508.09442)]
+- <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
+  Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2506.16981)]
 - <font color=Maroon><b>Quantifying Conversation Drift in MCP via Latent Polytope</b></font>
   Haoran Shi, Hongwei Yao, ***Shuo Shao***, Shaopeng Jiao, Ziqi Peng, Zhan Qin, Cong Wang.<br>
   Preprint. 2025.<br>
