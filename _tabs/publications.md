@@ -91,7 +91,7 @@ order: 1
 - <font color=Maroon><b>SoK: Large Language Model Copyright Auditing via Fingerprinting</b></font>
   ***Shuo Shao***, Yiming Li, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin.<br>
   Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2508.19843)] [[Code](https://github.com/shaoshuo-ss/LeaFBench)] [[Paper List](https://github.com/shaoshuo-ss/Awesome-LLM-Fingerprinting)]
+  [[Paper](https://arxiv.org/abs/2508.19843)] [[Code](https://github.com/shaoshuo-ss/LeaFBench)] [[Awesome-LLM-Fingerprinting](https://github.com/shaoshuo-ss/Awesome-LLM-Fingerprinting)]
 - <font color=Maroon><b>DATABench: Evaluating Dataset Auditing in Deep Learning from an Adversarial Perspective</b></font>
   ***Shuo Shao***, Yiming Li, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Dacheng Tao, Zhan Qin.<br>
   Preprint. 2025.<br>
