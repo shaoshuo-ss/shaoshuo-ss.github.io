@@ -124,6 +124,10 @@ order: 1
   Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2503.05794)] [[Code](https://github.com/Radiant0726/CBW)]
+- <font color=Maroon><b>PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity</b></font>
+  Yuchen Yang, Yiming Li, Hongwei Yao, Enhao Huang, ***Shuo Shao***, Bingrun Yang, Zhibo Wang, Dacheng Tao, Zhan Qin.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2509.03117)]
 - <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
   Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
   Preprint. 2024.<br>
