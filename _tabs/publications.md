@@ -86,7 +86,7 @@ order: 1
   IEEE Transactions on Information Forensics and Security (TIFS). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
 
-## Preprint
+## Selected Preprint
 
 - <font color=Maroon><b>SoK: Large Language Model Copyright Auditing via Fingerprinting</b></font>
   ***Shuo Shao***, Yiming Li, Yu He, Hongwei Yao, Wenyuan Yang, Dacheng Tao, Zhan Qin.<br>
@@ -96,6 +96,10 @@ order: 1
   ***Shuo Shao***, Yiming Li, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Dacheng Tao, Zhan Qin.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2507.05622)] [[Code](https://github.com/shaoshuo-ss/DATABench)]
+- <font color=Maroon><b>Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation</b></font>
+  ***Shuo Shao***, Yiming Li, Hongwei Yao, Yifei Chen, Yuchen Yang, Zhan Qin.<br>
+  Preprint. 2025.<br>
+  [[Paper](https://arxiv.org/abs/2510.06605)]
 - <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
   ***Shuo Shao***, Haozhe Zhu, Yiming Li, Hongwei Yao, Tianwei Zhang, Zhan Qin.<br>
   Preprint. 2025.<br>
@@ -112,14 +116,14 @@ order: 1
   Weiwei Qi, ***Shuo Shao***, Wei Gu, Tianhang Zheng, Puning Zhao, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2508.13048)]
-- <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
+<!-- - <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
   Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2506.16981)]
-- <font color=Maroon><b>Quantifying Conversation Drift in MCP via Latent Polytope</b></font>
+  [[Paper](https://arxiv.org/abs/2506.16981)] -->
+<!-- - <font color=Maroon><b>Quantifying Conversation Drift in MCP via Latent Polytope</b></font>
   Haoran Shi, Hongwei Yao, ***Shuo Shao***, Shaopeng Jiao, Ziqi Peng, Zhan Qin, Cong Wang.<br>
   Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2508.06418)]
+  [[Paper](https://arxiv.org/abs/2508.06418)] -->
 - <font color=Maroon><b>CBW: Towards Dataset Ownership Verification for Speaker Verification via Clustering-based Backdoor Watermarking</b></font>
   Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
   Preprint. 2025.<br>
@@ -128,14 +132,14 @@ order: 1
   Yu He, Yifei Chen, Yiming Li, ***Shuo Shao***, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qin.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2510.02964)]
-- <font color=Maroon><b>PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity</b></font>
+<!-- - <font color=Maroon><b>PromptCOS: Towards System Prompt Copyright Auditing for LLMs via Content-level Output Similarity</b></font>
   Yuchen Yang, Yiming Li, Hongwei Yao, Enhao Huang, ***Shuo Shao***, Bingrun Yang, Zhibo Wang, Dacheng Tao, Zhan Qin.<br>
   Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2509.03117)]
-- <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
+  [[Paper](https://arxiv.org/abs/2509.03117)] -->
+<!-- - <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
   Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
   Preprint. 2024.<br>
-  [[Paper](https://arxiv.org/abs/2411.11478)]
+  [[Paper](https://arxiv.org/abs/2411.11478)] -->
 
 ## Patent
 
