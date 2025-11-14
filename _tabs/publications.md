@@ -65,14 +65,14 @@ order: 1
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (TDSC). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q2">SCI Q2</span><br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
-- <font color=Maroon><b>MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies</b></font>
-  Weiwei Qi\*, ***Shuo Shao***\*, Wei Gu, Tianhang Zheng, Puning Zhao, Zhan Qin, Kui Ren.<br>
-  AAAI Conference on Artificial Intelligence (AAAI). 2026. <span class="badge ccf-a">CCF A</span> <br>
-  [[Paper](https://arxiv.org/abs/2508.13048)]
 - <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
   Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
   International Conference on Learning Representations (ICLR). 2025. <span class="badge th-cpl-a">TH-CPL A</span> <span class="badge ml-top3">ML TOP3</span><br>
   [[Paper](https://arxiv.org/abs/2502.18508)] [[Code](https://github.com/WhitolfChen/REFINE)]
+- <font color=Maroon><b>MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies</b></font>
+  Weiwei Qi, ***Shuo Shao***, Wei Gu, Tianhang Zheng, Puning Zhao, Zhan Qin, Kui Ren.<br>
+  AAAI Conference on Artificial Intelligence (AAAI). 2026. <span class="badge ccf-a">CCF A</span> <br>
+  [[Paper](https://arxiv.org/abs/2508.13048)]
 - <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
   Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin, Kui Ren.<br>
   ZTE Communications. 2025. <span class="badge ccf-t2">CCF T2</span><br>
