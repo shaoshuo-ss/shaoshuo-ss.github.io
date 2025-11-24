@@ -7,20 +7,21 @@ order: 2
 
 <!-- ## Conference Services -->
 
-- **Top Reviewer Awards**🏅: 
+- **Top/Outstanding Reviewer Awards**🏅: 
   - NeurIPS 2024.
   - ICML 2025.
 - **Conference Reviewer**: 
   - NeurIPS 2024, 2025. 
   - ICML 2025.
   - ICLR 2025, 2026.
+  - CVPR 2026.
   - WWW 2026.
   - SaTML 2026.
 - **Journal Reviewer**: 
-  - IEEE Transactions on Dependable and Secure Computing (TDSC); 
-  - IEEE Transactions on Information Forensics and Security (TIFS); 
-  - IEEE Transactions on Mobile Computing (TMC);
-  - IEEE Transactions on Industrial Informatics (TII);
+  - IEEE Transactions on Dependable and Secure Computing (TDSC).
+  - IEEE Transactions on Information Forensics and Security (TIFS). 
+  - IEEE Transactions on Mobile Computing (TMC).
+  - IEEE Transactions on Industrial Informatics (TII).
   - Neural Networks.
 - **Workshop PC Member**:
   - ICML 2025 Workshop DIG-BUG.
