@@ -69,10 +69,18 @@ order: 1
   Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
   International Conference on Learning Representations (ICLR). 2025. <span class="badge th-cpl-a">TH-CPL A</span> <span class="badge ml-top3">ML TOP3</span><br>
   [[Paper](https://arxiv.org/abs/2502.18508)] [[Code](https://github.com/WhitolfChen/REFINE)]
+- <font color=Maroon><b>Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference</b></font>
+  Zhifan Luo, ***Shuo Shao***, Su Zhang, Lijing Zhou, Yuke Hu, Zhihao Liu, Zhan Qin.<br>
+  Network and Distributed System Security Symposium (NDSS). 2026. <span class="badge ccf-a">CCF A</span> <span class="badge sec-big4">Security BIG4</span><br>
+  [[Paper](https://arxiv.org/abs/2508.09442)]
 - <font color=Maroon><b>MAJIC: Markovian Adaptive Jailbreaking via Iterative Composition of Diverse Innovative Strategies</b></font>
   Weiwei Qi, ***Shuo Shao***, Wei Gu, Tianhang Zheng, Puning Zhao, Zhan Qin, Kui Ren.<br>
   AAAI Conference on Artificial Intelligence (AAAI). 2026. <span class="badge ccf-a">CCF A</span> <br>
   [[Paper](https://arxiv.org/abs/2508.13048)]
+- <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
+  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin.<br>
+  IEEE Transactions on Information Forensics and Security (TIFS). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
 - <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
   Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin, Kui Ren.<br>
   ZTE Communications. 2025. <span class="badge ccf-t2">CCF T2</span><br>
@@ -85,10 +93,6 @@ order: 1
   Xiyao Liu, ***Shuo Shao***, Yue Yang, Kangming Wu, Wenyuan Yang, Hui Fang.<br>
   IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2021. <span class="badge ccf-c">CCF C</span><br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9658998/)]
-- <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
-  Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin.<br>
-  IEEE Transactions on Information Forensics and Security (TIFS). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
 
 ## Selected Preprint
 
@@ -112,10 +116,6 @@ order: 1
   Yiming Li\*, ***Shuo Shao***\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2507.03034)]
-- <font color=Maroon><b>Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference</b></font>
-  Zhifan Luo, ***Shuo Shao***, Su Zhang, Lijing Zhou, Yuke Hu, Zhihao Liu, Zhan Qin.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2508.09442)]
 <!-- - <font color=Maroon><b>SmartGuard: Leveraging Large Language Models for Network Attack Detection through Audit Log Analysis and Summarization</b></font>
   Hao Zhang, ***Shuo Shao***, Song Li, Zhenyu Zhong, Yan Liu, Zhan Qin, Kui Ren.<br>
   Preprint. 2025.<br>
