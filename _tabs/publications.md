@@ -63,7 +63,7 @@ order: 1
   [[Paper](https://arxiv.org/abs/2405.04825)] [[Code](https://github.com/shaoshuo-ss/EaaW)] [[Sildes](https://drive.google.com/file/d/1_xFE_Hrd63RO6FnS6-iLNZqEfi8LWN8b/view?usp=sharing)] [[Poster](https://drive.google.com/file/d/10yvkP86sH16ELQSW3oCnRkQNGRrYx64Y/view?usp=sharing)]
 - <font color=Maroon><b>FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model</b></font>
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin, Lixin Fan, Qiang Yang, Kui Ren.<br>
-  IEEE Transactions on Dependable and Secure Computing (**TDSC**). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q2">SCI Q2</span><br>
+  IEEE Transactions on Dependable and Secure Computing (**TDSC**). 2024. (🔥**ESI Highly Cited Papers**) <span class="badge ccf-a">CCF A</span> <span class="badge sci-q2">SCI Q2</span><br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
 - <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
   Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
