@@ -81,10 +81,14 @@ order: 1
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10745757)] [[Code](https://github.com/weic0810/PointNCBW)]
-<!-- - <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
+- <font color=Maroon><b> AnonymTracker: Anonymously Traceable Copyright Protection for Federated Learning Model</b></font>
+  Wenyuan Yang, Lexuan Chen, Zhun Zhang, ***Shuo Shao***, Xiaochun Cao.<br>
+  IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**). 2025. <span class="badge ccf-b">CCF B</span> <span class="badge sci-q1">SCI Q1</span><br>
+  [[Paper Coming Soon]()]
+- <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
   Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin, Kui Ren.<br>
   ZTE Communications. 2025. <span class="badge ccf-t2">CCF T2</span><br>
-  [[Paper](https://zte.magtechjournal.com/EN/10.12142/ZTECOM.202503002#1)] -->
+  [[Paper](https://zte.magtechjournal.com/EN/10.12142/ZTECOM.202503002#1)]
 - <font color=Maroon><b>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring</b></font>
   Wenyuan Yang, ***Shuo Shao***, Yue Yang, Xiyao Liu, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.<br>
   ACM Transactions on Intelligent Systems and Technology (**TIST**). 2023. <span class="badge sci-q3">SCI Q3</span><br>
