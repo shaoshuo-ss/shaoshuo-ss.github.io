@@ -84,7 +84,7 @@ order: 1
 - <font color=Maroon><b> AnonymTracker: Anonymously Traceable Copyright Protection for Federated Learning Model</b></font>
   Wenyuan Yang, Lexuan Chen, Zhun Zhang, ***Shuo Shao***, Xiaochun Cao.<br>
   IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**). 2026. <span class="badge ccf-b">CCF B</span> <span class="badge sci-q1">SCI Q1</span><br>
-  [[Paper Coming Soon]()]
+  [[Paper Coming Soon](#)]
 <!-- - <font color=Maroon><b>Poison-only and Targeted Backdoor Attack against Visual Object Tracking</b></font>
   Wei Gu, ***Shuo Shao***, Lingtao Zhou, Zhan Qin, Kui Ren.<br>
   ZTE Communications. 2025. <span class="badge ccf-t2">CCF T2</span><br>
