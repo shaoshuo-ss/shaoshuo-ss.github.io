@@ -21,7 +21,8 @@ order: 3
 
 ## Scholarship
 
+- 2025 OPPO "Ben Fen" Scholarship
 - 2018-2019 Year National Scholarship
 - 2018-2019,2019-2020 Year Academic Scholarship: First Prize
 - 2020-2021 Year Academic Scholarship: Third Prize
-- 2020 Year Yi Hao Shi Ping Scholarship (School Scholarship)
+- 2020 Year Yi Hao Shi Ping Scholarship
