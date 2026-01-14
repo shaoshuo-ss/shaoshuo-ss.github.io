@@ -57,6 +57,10 @@ order: 1
 
 ## Accepted Papers 
 
+- <font color=Maroon><b>Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation</b></font>
+  ***Shuo Shao***, Yiming Li, Hongwei Yao, Yifei Chen, Yuchen Yang, Zhan Qin.<br>
+  The ACM Web Conference (**WWW**). 2026.<br>
+  [[Paper](https://arxiv.org/abs/2510.06605)]
 - <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font>
   ***Shuo Shao***\*, Yiming Li\*, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   Network and Distributed System Security Symposium (**NDSS**). 2025. <span class="badge ccf-a">CCF A</span> <span class="badge sec-big4">Security BIG4</span><br>
@@ -108,10 +112,6 @@ order: 1
   ***Shuo Shao***, Yiming Li, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Dacheng Tao, Zhan Qin.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2507.05622)] [[Code](https://github.com/shaoshuo-ss/DATABench)]
-- <font color=Maroon><b>Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation</b></font>
-  ***Shuo Shao***, Yiming Li, Hongwei Yao, Yifei Chen, Yuchen Yang, Zhan Qin.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2510.06605)]
 - <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
   ***Shuo Shao***, Haozhe Zhu, Yiming Li, Hongwei Yao, Tianwei Zhang, Zhan Qin.<br>
   Preprint. 2025.<br>
