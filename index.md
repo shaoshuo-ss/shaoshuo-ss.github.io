@@ -22,7 +22,7 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
 - **AI Copyright Protection**
   - LLM Watermarking and Fingerprinting
   - Dataset Auditing
-- **AI Security**
+- **AI Safety**
   - Jailbreaking Attack and Safety Alignment
   - Backdoor Attack and Defense
 - **AI Privacy**
@@ -40,11 +40,9 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
 - **[2024.8]**: 🎉Our paper about model watermarking, entitled "Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution", is accepted by NDSS 2025!
 - **[2024.4]**: 🎉Our paper "FedTracker: Furnishing Ownership Verification and Traceability for Federated Learning Model" is accepted by TDSC!
 
-<!-- --- -->
-
-<!-- ## 📖Selected Publications
-
 ---
+
+ ## 📖Selected Publications
 
 <div class="publication-container">
   <!-- 左边的图 -->
@@ -102,9 +100,9 @@ My research interests focus on three main aspects of trustworthy AI: copyright, 
         <li>We propose a continual-learning-based watermark embedding method to mitigate model utility degradation.</li>
     </ul>
   </div>
-</div> -->
+</div>
 
----
+<!-- --- -->
 
 ## ✉️Contact
 
