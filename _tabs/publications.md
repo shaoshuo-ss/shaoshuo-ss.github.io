@@ -83,7 +83,7 @@ order: 1
   [[Paper](https://arxiv.org/abs/2508.13048)]
 - <font color=Maroon><b> JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization</b></font>
   Haolun Zheng, Yu He, Tailun Chen, ***Shuo Shao***, Zhixuan Chu, Hongbin Zhou, Lan Tao, Zhan Qin, Kui Ren.<br>
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2026. <span class="badge ccf-a">CCF A</span>
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2026. <span class="badge ccf-a">CCF A</span><br>
   [Paper is coming soon]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin.<br>
