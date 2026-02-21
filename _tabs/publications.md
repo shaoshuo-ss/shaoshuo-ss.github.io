@@ -81,6 +81,10 @@ order: 1
   Weiwei Qi, ***Shuo Shao***, Wei Gu, Tianhang Zheng, Puning Zhao, Zhan Qin, Kui Ren.<br>
   AAAI Conference on Artificial Intelligence (**AAAI**). 2026. <span class="badge ccf-a">CCF A</span> <br>
   [[Paper](https://arxiv.org/abs/2508.13048)]
+- <font color=Maroon><b> JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization</b></font>
+  Haolun Zheng, Yu He, Tailun Chen, ***Shuo Shao***, Zhixuan Chu, Hongbin Zhou, Lan Tao, Zhan Qin, Kui Ren.<br>
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2026. <span class="badge ccf-a">CCF A</span>
+  [Paper is coming soon]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
