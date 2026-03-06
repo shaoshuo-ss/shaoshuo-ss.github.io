@@ -71,7 +71,7 @@ order: 1
   [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
 - <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
   Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
-  International Conference on Learning Representations (**ICLR**). 2025. <span class="badge th-cpl-a">TH-CPL A</span> <span class="badge ml-top3">ML TOP3</span><br>
+  International Conference on Learning Representations (**ICLR**). 2025. <span class="badge ccf-a">CCF A</span> <span class="badge ml-top3">ML TOP3</span><br>
   [[Paper](https://arxiv.org/abs/2502.18508)] [[Code](https://github.com/WhitolfChen/REFINE)]
 - <font color=Maroon><b>Shadow in the Cache: Unveiling and Mitigating Privacy Risks of KV-cache in LLM Inference</b></font>
   Zhifan Luo, ***Shuo Shao***, Su Zhang, Lijing Zhou, Yuke Hu, Zhihao Liu, Zhan Qin.<br>
@@ -99,7 +99,7 @@ order: 1
   [[Paper](https://zte.magtechjournal.com/EN/10.12142/ZTECOM.202503002#1)] -->
 - <font color=Maroon><b>Watermarking in Secure Federated Learning: A Verification Framework Based on Client-Side Backdooring</b></font>
   Wenyuan Yang, ***Shuo Shao***, Yue Yang, Xiyao Liu, Ximeng Liu, Zhihua Xia, Gerald Schaefer, Hui Fang.<br>
-  ACM Transactions on Intelligent Systems and Technology (**TIST**). 2023. <span class="badge sci-q3">SCI Q3</span><br>
+  ACM Transactions on Intelligent Systems and Technology (**TIST**). 2023. <span class="badge ccf-c">CCF C</span> <span class="badge sci-q3">SCI Q3</span><br>
   [[Paper](https://dl.acm.org/doi/full/10.1145/3630636)] [[Code](https://github.com/shaoshuo-ss/Watermark-Secure-FL)]
 - <font color=Maroon><b>Secure Federated Learning Model Verification: A Client-side Backdoor Triggered Watermarking Scheme</b></font>
   Xiyao Liu, ***Shuo Shao***, Yue Yang, Kangming Wu, Wenyuan Yang, Hui Fang.<br>

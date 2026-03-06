@@ -12,7 +12,7 @@ order: 2
   - ICML 2025.
 - **Conference Reviewer**: 
   - NeurIPS 2024, 2025. 
-  - ICML 2025.
+  - ICML 2025, 2026.
   - ICLR 2025, 2026.
   - CVPR 2026.
   - WWW 2026.
