@@ -87,7 +87,7 @@ order: 1
   [Paper is coming soon]
 - <font color=Maroon><b>PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs</b></font>
   Yuchen Yang, Yiming Li, Hongwei Yao, Enhao Huang, ***Shuo Shao***, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin.<br>
-  IEEE Symposium on Security and Privacy (**S\&P**). 2026. <span class="badge ccf-a">CCF A</span> <span class="badge sec-big4">Security BIG4</span><br>
+  IEEE Symposium on Security and Privacy (**S&P**). 2026. <span class="badge ccf-a">CCF A</span> <span class="badge sec-big4">Security BIG4</span><br>
   [[Paper](https://arxiv.org/abs/2509.03117)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin.<br>
