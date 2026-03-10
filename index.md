@@ -23,7 +23,8 @@ My research interests primarily focus on **Trustworthy AI**. My previous work ma
 
 ## 🔥News
 
-- **[2026.2]**: 🎉Our paper about T2I Jailbreak attack is accepted by **CVPR 2026**!
+- **[2026.3]**: 🎉Our paper about Prompt Copyright Auditing is accepted by **S\&P 2026**!
+- **[2026.2]**: 🎉Our paper about T2I Jailbreak Attack is accepted by **CVPR 2026**!
 - **[2026.1]**: 🎉Our paper about Black-box LLM Fingerprinting, entitled "Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation", is accepted by **WWW 2026**!
 - **[2025.11]**: 🎉Our paper about KV-cache Privacy Leakage and Defense is accepted by **NDSS 2026**!
 - **[2025.11]**: 🎉Our paper about Markovian adaptive jailbreak attack is accepted by **AAAI 2026**!
