@@ -84,7 +84,7 @@ order: 1
 - <font color=Maroon><b> JANUS: A Lightweight Framework for Jailbreaking Text-to-Image Models via Distribution Optimization</b></font>
   Haolun Zheng, Yu He, Tailun Chen, ***Shuo Shao***, Zhixuan Chu, Hongbin Zhou, Lan Tao, Zhan Qin, Kui Ren.<br>
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**). 2026. <span class="badge ccf-a">CCF A</span><br>
-  [Paper is coming soon]
+  [[Paper](https://arxiv.org/abs/2603.21208)] [[Code](https://github.com/dimshimmer/JANUS)]
 - <font color=Maroon><b>PromptCOS: Towards Content-only System Prompt Copyright Auditing for LLMs</b></font>
   Yuchen Yang, Yiming Li, Hongwei Yao, Enhao Huang, ***Shuo Shao***, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin.<br>
   IEEE Symposium on Security and Privacy (**S&P**). 2026. <span class="badge ccf-a">CCF A</span> <span class="badge sec-big4">Security BIG4</span><br>
