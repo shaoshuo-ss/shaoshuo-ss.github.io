@@ -23,6 +23,7 @@ My research interests primarily focus on **Trustworthy AI**. My previous work ma
 
 ## 🔥News
 
+- **[2026.4]**: 🎉Our paper about RAG Poisoning Attack is accepted by **CCS 2026**!
 - **[2026.3]**: 🎉Our paper about Prompt Copyright Auditing is accepted by **S&P 2026**!
 - **[2026.2]**: 🎉Our paper about T2I Jailbreak Attack is accepted by **CVPR 2026**!
 - **[2026.1]**: 🎉Our paper about Black-box LLM Fingerprinting, entitled "Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation", is accepted by **WWW 2026**!
