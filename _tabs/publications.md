@@ -60,7 +60,7 @@ order: 1
 - <font color=Maroon><b>Reading Between the Lines: Towards Reliable Black-box LLM Fingerprinting via Zeroth-order Gradient Estimation</b></font>
   ***Shuo Shao***, Yiming Li, Hongwei Yao, Yifei Chen, Yuchen Yang, Zhan Qin.<br>
   The ACM Web Conference (**WWW**). 2026. (**Oral**) <span class="badge ccf-a">CCF A</span> <br>
-  [[Paper](https://arxiv.org/abs/2510.06605)] [[Code](https://github.com/shaoshuo-ss/ZeroPrint)]
+  [[Paper](https://dl.acm.org/doi/10.1145/3774904.3792196)] [[Code](https://github.com/shaoshuo-ss/ZeroPrint)]
 - <font color=Maroon><b>Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution</b></font>
   ***Shuo Shao***\*, Yiming Li\*, Hongwei Yao, Yiling He, Zhan Qin, Kui Ren.<br>
   Network and Distributed System Security Symposium (**NDSS**). 2025. <span class="badge ccf-a">CCF A</span> <span class="badge sec-big4">Security BIG4</span><br>
