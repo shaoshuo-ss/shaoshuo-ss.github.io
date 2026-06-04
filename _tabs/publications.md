@@ -69,6 +69,10 @@ order: 1
   ***Shuo Shao***\*, Wenyuan Yang\*, Hanlin Gu, Zhan Qin, Lixin Fan, Qiang Yang, Kui Ren.<br>
   IEEE Transactions on Dependable and Secure Computing (**TDSC**). 2024. (🔥**ESI Highly Cited Paper**) <span class="badge ccf-a">CCF A</span> <span class="badge sci-q2">SCI Q2</span><br>
   [[Paper](https://ieeexplore.ieee.org/document/10504977)] [[Code](https://github.com/shaoshuo-ss/FedTracker)]
+- <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
+  ***Shuo Shao***, Haozhe Zhu, Yiming Li, Hongwei Yao, Tianwei Zhang, Zhan Qin.<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**). 2026. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
+  [[Paper](https://arxiv.org/abs/2501.15509)]
 - <font color=Maroon><b>REFINE: Inversion-Free Backdoor Defense via Model Reprogramming</b></font>
   Yukun Chen\*, ***Shuo Shao***\*, Enhao Huang, Yiming Li, Pin-Yu Chen, Zhan Qin, Kui Ren.<br>
   International Conference on Learning Representations (**ICLR**). 2025. <span class="badge ccf-a">CCF A</span> <span class="badge ml-top3">ML TOP3</span><br>
@@ -124,10 +128,6 @@ order: 1
   ***Shuo Shao***, Yiming Li, Mengren Zheng, Zhiyang Hu, Yukun Chen, Boheng Li, Yu He, Junfeng Guo, Dacheng Tao, Zhan Qin.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2507.05622)] [[Code](https://github.com/shaoshuo-ss/DATABench)]
-- <font color=Maroon><b>FIT-Print: Towards False-claim-resistant Model Ownership Verification via Targeted Fingerprint</b></font>
-  ***Shuo Shao***, Haozhe Zhu, Yiming Li, Hongwei Yao, Tianwei Zhang, Zhan Qin.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2501.15509)]
 - <font color=Maroon><b>Rethinking Data Protection in the (Generative) Artificial Intelligence Era</b></font>
   Yiming Li\*, ***Shuo Shao***\*, Yu He, Junfeng Guo, Tianwei Zhang, Zhan Qin, Pin-Yu Chen, Michael Backes, Philip Torr, Dacheng Tao, Kui Ren.<br>
   Preprint. 2025.<br>
@@ -157,7 +157,7 @@ order: 1
 
 - ***邵硕***, 李一鸣, 秦湛, 任奎, 王宏韬, 马杏可, 冯振源. 一种基于非决策域方法的模型水印方法及装置. (发明专利, 已授权, CN202410553090.0, 授权日期: 2024/07/30)
 - 乔一帆, ***邵硕***, 秦湛, 王志波, 任奎. 一种基于模型分割的大模型隐私保护推理方法. (发明专利, 已授权, CN202311418709.9, 授权日期: 2024/04/05)
+- 张昊, ***邵硕***, 李松, 秦湛, 任奎, 仲震宇, 刘焱. 一种数据处理方法、装置及设备. (发明专利, 已授权, CN202411997927.7, 授权日期: 2025/12/19)
 - ***邵硕***, 李一鸣, 秦湛, 任奎, 王宏韬, 马杏可, 冯振源. 一种基于非决策域方法的模型指纹方法及装置. (发明专利, 已进入实质审查, CN202410664418.6)
 - ***邵硕***, 秦湛. 一种神经网络模型的水印处理方法和装置. (发明专利, 已进入实质审查, CN202310117212.7)
 - 李一鸣, ***邵硕***, 秦湛, 任奎, 王宏韬, 马杏可, 冯振源. 一种基于非决策域方法的数据集版权认证方法及装置. (发明专利, 已进入实质审查, CN202410664413.3)
-- 张昊, ***邵硕***, 李松, 秦湛, 任奎, 仲震宇, 刘焱. 一种数据处理方法、装置及设备. (发明专利, 已进入实质审查, CN202411997927.7)
