@@ -13,7 +13,7 @@ title: Welcome to the homepage of Shuo Shao!
 <img src="https://visitor-badge.laobi.icu/badge?page_id=https://shaoshuo-ss.github.io" alt="visitor badge"/>
 </div> -->
 
-## 🪪About Me
+## 📇About Me
 
 I'm Shuo Shao😄, a fourth-year Ph.D. candidate with the State Key Laboratory of Blockchain and Data Security, Zhejiang University. I am currently an intern at Ant Group. I am hornord to be advised by Prof. <a href="https://scholar.google.com/citations?user=5fa4lOQAAAAJ">Zhan Qin</a> and Prof. <a href="https://scholar.google.com/citations?user=uuQA_rcAAAAJ">Kui Ren</a>. I also work closely with Dr. <a href="https://scholar.google.com/citations?user=mSW7kU8AAAAJ">Yiming Li</a> and Prof. <a href="https://scholar.google.com/citations?user=bdFQARIAAAAJ">Wenyuan Yang</a>. I received my B.Eng. degree in Computer Science and Technology from Central South University in 2022, advised by Prof. <a href="https://scholar.google.com/citations?user=3odvjZ0AAAAJ">Xiyao Liu</a>.
 
