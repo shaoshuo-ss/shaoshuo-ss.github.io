@@ -97,6 +97,10 @@ order: 1
   Yuchen Yang, Yiming Li, Hongwei Yao, Enhao Huang, ***Shuo Shao***, Yuyi Wang, Zhibo Wang, Dacheng Tao, Zhan Qin.<br>
   IEEE Symposium on Security and Privacy (**S&P**). 2026. <span class="badge ccf-a">CCF A</span> <span class="badge sec-big4">Security BIG4</span><br>
   [[Paper](https://arxiv.org/abs/2509.03117)]
+- <font color=Maroon><b>External Data Extraction Attacks against Retrieval-Augmented Large Language Models</b></font>
+  Yu He, Yifei Chen, Yiming Li, ***Shuo Shao***, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qin.<br>
+  IEEE Transactions on Information Forensics and Security (**TIFS**). 2026. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
+  [[Paper](https://arxiv.org/abs/2510.02964)]
 - <font color=Maroon><b>PointNCBW: Towards Dataset Ownership Verification for Point Clouds via Negative Clean-label Backdoor Watermark</b></font>
   Cheng Wei, Yang Wang, Kuofeng Gao, ***Shuo Shao***, Yiming Li, Zhibo Wang, Zhan Qin.<br>
   IEEE Transactions on Information Forensics and Security (**TIFS**). 2024. <span class="badge ccf-a">CCF A</span> <span class="badge sci-q1">SCI Q1</span><br>
@@ -144,10 +148,6 @@ order: 1
   Yiming Li, Kaiying Yan, ***Shuo Shao***, Tongqing Zhai, Shu-Tao Xia, Zhan Qin, Dacheng Tao.<br>
   Preprint. 2025.<br>
   [[Paper](https://arxiv.org/abs/2503.05794)] [[Code](https://github.com/Radiant0726/CBW)]
-- <font color=Maroon><b>External Data Extraction Attacks against Retrieval-Augmented Large Language Models</b></font>
-  Yu He, Yifei Chen, Yiming Li, ***Shuo Shao***, Leyi Qi, Boheng Li, Dacheng Tao, Zhan Qin.<br>
-  Preprint. 2025.<br>
-  [[Paper](https://arxiv.org/abs/2510.02964)]
 <!-- - <font color=Maroon><b>SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI</b></font>
   Kui Ren, Ziqi Yang, Li Lu, Jian Liu, Yiming Li, Jie Wan, Xiaodi Zhao, Xianheng Feng, ***Shuo Shao***.<br>
   Preprint. 2024.<br>
